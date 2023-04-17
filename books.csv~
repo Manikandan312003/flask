@@ -1,0 +1,33 @@
+SI:NO,Book Name ,Book Category,road map,Book content page number,,image,pdf,,pdf name ,content
+0,JAVA PROGRAMMING - Mr.E.Karunakar,Technical,,5to5,,assets/images/java.jpg,,,JAVA PROGRAMMING Notes,JAVA PROGRAMMING Notes_content
+1,LEARNING PYTHON - Fabrizio Romano,Technical,,15to22,,assets/images/learningpython.jpg,,,learning-python,assets/pdf/content/learning-python_content.pdf
+2,"THE C PROGRAMMING LANGUAGE - Brian W.Kernighan,Dennis M.Ritchie",Technical,,2to5,,assets/images/c.jpg,,,The C Programming Language - 2nd edition,The C Programming Language - 2nd edition_content
+3,THE C++ PROGRAMMING LANGUAGE - Bjarne Stroustrup,Technical,,5to6,,assets/images/c++.jpg,,,The C++ Programming Language Special Edition,The C++ Programming Language Special Edition_content
+4,JAVASCRIPT BY EXAMPLE - Ellie Quigley,Technical,,7to16,,assets/images/javascript1.jpg,,,javascript tutorials,javascript tutorials_content
+5,THE FAULT IN OUR STARS - John Green ,Fiction story,,7to7,,assets/images/thefault.jpg,,,The faultin our stars,The faultin our stars_content
+6,SIX OF CROWS - Leigh Bardugo,Fiction story,Part 1,6to9,,assets/images/sixcrows.jpg,,,Six of crows part-1,Six of crows part-1_content
+7,SIX OF CROWS - Leigh Bardugo,Fiction story,Part 2,6to9,,assets/images/sixcrows.jpg,,,Six of crows part-2,Six of crows part-2_content
+8,COURT OF MIST FURY - Sarah J.Maas,Fiction story,,5to7,,assets/images/court.jpg,,,A court of mist and fury,A court of mist and fury_content
+9,TO KILL A MOCKINGBIRD - Harper lee,Fiction story,,8to9,,assets/images/kill.jpg,,,To kill a mocking bird,To kill a mocking bird_content
+10,ALL YOUR PERFECTS  - Colleen Hoover ,Romance,,5to6,,assets/images/colleen.jpg,,,All your perfects,All your perfects_content
+11,VERITY - Colleen Hoover ,Romance,,5to6,,assets/images/verify.jpg,,,Verity,Verity_content
+12,THE HATING GAME  - Sally Thorne,Romance,,5to6,,assets/images/hating.jpeg,,,The hating game,The hating game_content
+13,PEOPLE WE MEET ON VACATION - Emily Henry,Romance,,9to10,,assets/images/people.jpg,,,People we meet on vacation,People we meet on vacation_content
+14,THE SPANISH LOVE DECEPTION - Elena armas,Romance,,6to6,,assets/images/spanish.jpg,,,The-Spanish-Love-Deception,The-Spanish-Love-Deception_content
+15,WHAT I TALK ABOUT WHEN I TALK ABOUT RUNNING  - Haruki Murakami,Self-love ,,4to4,,assets/images/what.jeg,,,Murakami,Murakami_content
+16,MAN'S SEARCH FOR MEANING  - Viktor E.Frankl,Self-love ,,6to6,,assets/images/book4.jpeg,,,Man'ssearch for meaning,Man'ssearch for meaning_content
+17,THE ALCHEMIST - Paulo coelho,Self-love ,,4to4,,assets/images/book4.jpeg,,,The alchemist,The alchemist_content
+18,THINK AND GROW RICH - Napoleon Hill Compiled by Ross Cornwell,Self-love ,,5to7,,assets/images/book4.jpeg,,,Think and grow rich-1,Think and grow rich-1_content
+19,IKIGAI - Hector Garcia and Francesc Miralles,Self-love ,,8to9,,assets/images/book4.jpeg,,,Ikigai,Ikigai_content
+20,PYTHON PROGRAMMING FOR BEGINNERS - Adam stewart,Technical,Beginners,4to4,,assets/images/book2.jpeg,,,Python Books PDf-1-115-2-60,Python Books PDf-1-115-2-60_content
+21,PYTHON PROGRAMMING FOR INTERMEDIATES - Adam stewart,Technical,Intermediates,4to4,,assets/images/book2.jpeg,,,Python Books PDf-1-115-61-115,Python Books PDf-1-115-61-115_content
+22,ADVANCED GUIDE TO PYTHON 3 PROGRAMMING - John hunt,Technical,Advance,14to27,,assets/images/book2.jpeg,,,2019_Book_AdvancedGuideToPython3Programm,2019_Book_AdvancedGuideToPython3Programm_content
+23,C PROGRAMMING THE ULTIMATE WAY TO LEARN THE FUNDAMENTALS OF C LANGUAGE - Harry H.Chaudhary,Technical,Beginners,8to8,,assets/images/book2.jpeg,,,C Programming __ The Ultimate Way to Learn The Fundamentals of The C Language. ( PDFDrive ),C Programming __ The Ultimate Way to Learn The Fundamentals of The C Language. ( PDFDrive )_content
+24,INTERMEDIATE C PROGRAMMING - Yung-Hsiang Lu,Technical,Intermediates,7to13,,assets/images/book2.jpeg,,,intermediate-c-programming-9781498711647-9781498711630-9781138460775-113846077x_compress,intermediate-c-programming-9781498711647-9781498711630-9781138460775-113846077x_compress_content
+25,ADVANCED C - Peter D.Hipson,Technical,Advance,10to21,,assets/images/book2.jpeg,,,Advanced C [EnglishOnlineClub.com],Advanced C [EnglishOnlineClub.com]_content
+26,LINUX FOR BEGINNERS - Adam vardy,Technical,Beginners,5to5,,assets/images/book2.jpeg,,,Linux For Beginners_ The Ultimate Guide To The Linux Operating System & Linux ( PDFDrive ),Linux For Beginners_ The Ultimate Guide To The Linux Operating System & Linux ( PDFDrive )_content
+27,THE LINUX PROGRAMMING INTERFACE - Michael kerrisk,Technical,Intermediates,14to31,,assets/images/book2.jpeg,,,The Linux Programming Interface ( PDFDrive ),The Linux Programming Interface ( PDFDrive )_content
+28,COMPTIA ADVANCED SECURITY PRACTITIONER (CASP) CAS-003 CERT GUIDE - Robin Albernathy,Technical,Advance,10to47,,assets/images/book3.jpeg,,,CompTIA Advanced Security Practitioner (CASP) CAS-003 Cert Guide  CompTIA A ( PDFDrive ),CompTIA Advanced Security Practitioner (CASP) CAS-003 Cert Guide  CompTIA A ( PDFDrive )_content
+29,FRONT END FUNDAMENTALS - Joe fender and Carwin Young,Technical,Beginners,5to6,,assets/images/book3.jpeg,,,Front-End Fundamentals_ A practical guide to front-end web development. ( PDFDrive ),Front-End Fundamentals_ A practical guide to front-end web development. ( PDFDrive )_content
+30,SUCCESS WITHIN FRONT END OF INNOVATION - Hedvig ahlgren and Moa Landstrom,Technical,Intermediates,14to15,,assets/images/book3.jpeg,,,Success within Front End of Innovation ( PDFDrive ),Success within Front End of Innovation ( PDFDrive )_content
+31,FRONT-END DEVELOPMENT - Simone chiaretta ,Technical,Advance,19to25,,assets/images/book3.jpeg,,,"Front-end Development with ASP.NET Core, Angular, and Bootstrap ( PDFDrive )","Front-end Development with ASP.NET Core, Angular, and Bootstrap ( PDFDrive )_content"
