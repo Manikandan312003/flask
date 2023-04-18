@@ -60,6 +60,10 @@ def read_book():
 app=Flask(__name__)
 CORS(app)
 
+@app.route('/',methods=['POST','GET'])
+def index():
+    return jsonify([{"HELLO":"Hello"}])
+
 @app.route('/signup/',methods=['POST',"GET"])
 def signup():
     if request.method=="POST":
@@ -230,8 +234,9 @@ def getwishbook():
         for i in r:
             if i[0]==a['name']:
                 s=i[4]
-                print(i)
+                print(i[4])
                 break
+        print(s)
         l=list(map(int,s.split(",")))
         a=read_book()
         info=[]
@@ -483,4 +488,4 @@ def upload_file():
     response = jsonify({'message': 'File uploaded successfully!'})
     return response
 if __name__=="__main__":
-    app.run(debug=True)
+    app.run(debug=True,host="0.0.0.0",port=5000)
